@@ -47,7 +47,7 @@ python3 bruteforcer_cracker.py
 - email:pass should be colon : separated
 - auto change ip
 ---
-
+![](https://raw.githubusercontent.com/security-softwares/insta-cracker/main/IMG_20211009_223554_668.jpg)
 ### follow on 
 
 ---
