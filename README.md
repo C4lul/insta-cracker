@@ -46,6 +46,7 @@ bash main.sh
 - auto change ip
 ---
 ### run
+![](https://raw.githubusercontent.com/security-softwares/insta-cracker/main/h.png)
 ![](https://raw.githubusercontent.com/security-softwares/insta-cracker/main/IMG_20211009_223554_668.jpg)
 ### follow on 
 
