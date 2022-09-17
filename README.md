@@ -39,14 +39,13 @@ Here -:
 cd insta-cracker
 python3 bruteforcer_cracker.py
 ```
-## run 
-![image](https://github.com/HackersTech/insta-bruteforcer/blob/main/IMG_20211009_223554_668.jpg)
 - >sample.txt file
 
 - it is a example of email:pass txt file 
 - email:pass should be colon : separated
 - auto change ip
 ---
+### run
 ![](https://raw.githubusercontent.com/security-softwares/insta-cracker/main/IMG_20211009_223554_668.jpg)
 ### follow on 
 
