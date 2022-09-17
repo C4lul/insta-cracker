@@ -1,6 +1,6 @@
                                        # insta-cracker
 advance latest technology cracker ever made
-### combos user:pass cracker  ip change facility
+### combos user:pass cracker with ip change facility
 ## Advantages -
 - >More advance tool 
 - >Easy to use
