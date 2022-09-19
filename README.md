@@ -5,7 +5,7 @@ advance latest technology cracker ever made
 - >More advance tool 
 - >Easy to use
 - >allows updating tool 
-->works in linux preferred
+- >works in linux distros preferred
 ---
 ![Ht](https://img.shields.io/badge/Made%20by-HackersTech-brightgreen)
 ---
