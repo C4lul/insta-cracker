@@ -5,7 +5,7 @@ advance latest technology cracker ever made
 - >More advance tool 
 - >Easy to use
 - >allows updating tool 
-
+->works in linux preferred
 ---
 ![Ht](https://img.shields.io/badge/Made%20by-HackersTech-brightgreen)
 ---
@@ -19,13 +19,7 @@ Here -:
 
 - apt update 
 
-- apt install python -y
-
-- apt install git 
-
-- apt install tor
-
-- apt install curl
+- apt install python curl git tor -y
 
 
 
@@ -44,6 +38,7 @@ bash main.sh
 - it is a example of email:pass txt file 
 - email:pass should be colon : separated
 - auto change ip
+
 ---
 ### run
 ![](https://raw.githubusercontent.com/security-softwares/insta-cracker/main/h.png)
