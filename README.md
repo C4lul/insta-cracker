@@ -63,13 +63,13 @@ https://instagram.com/hackers__tech?utm_medium=copy_link)
 
 ---
 
-### about us 
+### about 
 
 ---
 |share|our|repo |
 |----|----|----|
-|give|star to|our repo |
-|follow|us on|social media|
+|give|star to | repo |
+|follow| for |more |
 
 ---
 
