@@ -31,7 +31,7 @@ Here -:
 - git clone https://github.com/security-softwares/insta-cracker/
 ```
 cd insta-cracker
-bash main.sh
+bash setuop.sh
 ```
 - >sample.txt file
 
